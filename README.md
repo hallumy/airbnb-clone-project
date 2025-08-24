@@ -16,6 +16,18 @@ The **Airbnb Clone Project** is a comprehensive full-stack application designed 
 - **Containerization & Deployment:** Docker, GitHub Actions (CI/CD)  
 - **Version Control & Collaboration:** Git & GitHub  
 
+🗄️ Database Design
+Key Entities
+
+- **Users
+
+- **Properties
+
+- **Bookings
+
+- **Reviews
+
+- **Payments
 ---
 
 This repository will serve as the foundation for building, documenting, and scaling the Airbnb Clone Project.
